@@ -1,0 +1,373 @@
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .top {
+            display: flex;
+            /* border: 2px solid black; */
+            justify-content: center;
+            align-items: center;
+            width: 80%;
+            height: 10%;
+            margin: 0 auto;
+        }
+
+        .top .logo img {
+            width: 200px;
+            height: 100px;
+        }
+
+        .top2 {
+            display: flex;
+            /* width: 80%; */
+            justify-content: space-around;
+            margin: 10px;
+        }
+
+        .top2 .social {
+            display: flex;
+            /* width: 10%; */
+            font-size: x-large;
+            gap: 20px;
+        }
+
+        .top2 .button {
+            /* width: 10%; */
+            border-radius: 10px;
+        }
+
+        .top3 {
+            /* width: 80%; */
+            text-align: center;
+            margin: 10px;
+        }
+
+        .mid {
+            display: flex;
+            gap: 2px;
+            /* width: 80%; */
+            justify-content: center;
+            /* margin: 10px; */
+        }
+
+        #registration {
+            height: 25px;
+            width: 80px;
+            height: 25px;
+        }
+
+        #download {
+            height: 25px;
+            width: 130px;
+            height: 25px
+        }
+
+        #result {
+            height: 25px;
+            width: 80px;
+            height: 25px
+        }
+
+        .main {
+            margin-top: 15px;
+        }
+
+        .row {
+            /* width: 100%; */
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row .row1 p {
+            color: blue;
+        }
+
+        .row .row1 input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row .row1b p {
+            color: blue;
+        }
+
+        .row .row1b input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row2 {
+            /* width: 100%; */
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row2 {
+            padding-top: 20px;
+        }
+
+        .row2 .row2a p {
+            color: blue;
+        }
+
+        .row2 .row2a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row2 .row2b p {
+            color: blue;
+        }
+
+        .row2 .row2b input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row4 {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row4 {
+            padding-top: 20px;
+        }
+
+        .row4 .row4a p {
+            color: blue;
+        }
+
+        .row4 .row4a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row4 .row4b p {
+            color: blue;
+        }
+
+        .row4 .row4b input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row3 {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row3 {
+            padding-top: 20px;
+        }
+
+        .row3 .row3a p {
+            color: blue;
+        }
+
+        .row3 .row3a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row3 .row3b p {
+            color: blue;
+        }
+
+        .row3 .row3b input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row5 {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row5 {
+            padding-top: 20px;
+        }
+
+        .row5 .row5a p {
+            color: blue;
+        }
+
+        .row5 .row5a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row5 .row5b p {
+            color: blue;
+        }
+
+        .row5 .row5b input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row6 {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row6 {
+            padding-top: 20px;
+        }
+
+        .row6 .row6a p {
+            color: blue;
+        }
+
+        .row6 .row6a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row6 .row6b p {
+            color: blue;
+        }
+
+        .row6 .row6b input {
+            height: 35px;
+            width: 450px;
+        }
+
+
+        .row7 {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .row7 {
+            padding-top: 20px;
+        }
+
+        .row7 .row7a p {
+            color: blue;
+        }
+
+        .row7 .row7a input {
+            height: 35px;
+            width: 450px;
+        }
+
+        .row7 .row7b p {
+            color: blue;
+        }
+
+        .row7 .row7c {
+            display: flex;
+            justify-content: flex-start;
+        }
+
+        .row7 .row7b input {
+            height: 35px;
+            width: 185px;
+        }
+
+        .row8 {
+            padding-left: 210px;
+        }
+
+        .row8 {
+            padding-top: 20px;
+        }
+
+        .row8a p {
+            color: blue;
+        }
+
+        .row8b input {
+            height: 35px;
+            width: 930px;
+        }
+
+        .row9 {
+            /* display: flex; */
+            /* gap: 20px; */
+            /* justify-content: space-around; */
+            padding-left: 210px;
+        }
+
+        .row9 {
+            padding-top: 20px;
+        }
+
+        .row9a p {
+            color: blue;
+        }
+
+        .row9b input {
+            height: 35px;
+            width: 930px;
+        }
+
+        .row10 {
+            padding-left: 210px;
+        }
+
+        .row10 {
+            padding-top: 20px;
+        }
+
+        .row10a p {
+            color: blue;
+        }
+
+        .row10b input {
+            height: 35px;
+            width: 930px;
+        }
+
+        /* 
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        } */
+.pic{
+    padding-top: 15px;
+    margin-left: 210px;
+}
+        .below {
+            display: flex;
+        gap: 30px;
+        padding-left: 210px;
+        }
+
+        .below p {
+            color: black;
+        }
+
+        .footer input {
+            border: 2px solid black;
+            border-style: dashed;
+            width: 185px;
+            height: 100px;
+            margin-top: 5px;
+        }
+
+        .ins {
+            padding-left: 210px;
+            margin-top: 15px;
+        }
+        .submitt{
+            padding-top: 15px;
+        }
+        .submitt button {
+            border: 2px solid rgb(24, 24, 82);
+            background-color: rgb(24, 24, 82);
+            color: white;
+            width: 930px;
+            height: 40px;
+            margin-left: 210px;
+            border-radius: 5px;
+        }
